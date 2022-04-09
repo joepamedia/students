@@ -11,4 +11,4 @@ connect(connectionString, {
 
 module.exports = connection;
 
-// mongodb+srv://atlas:admin@cluster0.wwdq2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+// mongodb+srv://atlas:admin@cluster0.wwdq2.mongodb.net/studentsDB?retryWrites=true&w=majority
